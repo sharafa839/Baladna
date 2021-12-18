@@ -1,0 +1,6 @@
+framework module Pods_Baladna {
+  umbrella header "Pods-Baladna-umbrella.h"
+
+  export *
+  module * { export * }
+}
